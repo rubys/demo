@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails.git
-  revision: 738fde4782a1a457341aae54b80fa9844ba73904
+  revision: 0d30e84878223df68efda3b0e1741611d9682a45
   branch: main
   specs:
     actioncable (8.0.0.alpha)
@@ -181,6 +181,7 @@ GEM
       date
       net-protocol
     net-pop (0.1.2)
+      net-protocol
     net-protocol (0.2.2)
       timeout
     net-scp (4.0.0)
